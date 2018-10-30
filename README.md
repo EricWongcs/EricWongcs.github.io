@@ -1,2 +1,2 @@
 # EricWongcs.github.io
-# theme: time-machine
+# theme: mi
