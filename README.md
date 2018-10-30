@@ -1,3 +1,3 @@
 # EricWongcs.github.io
 # theme: time-machine
-# Welcome
+# Welcome to CS world
